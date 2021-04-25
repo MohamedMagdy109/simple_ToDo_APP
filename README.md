@@ -1,16 +1,8 @@
-# TODO App In Flutter !
+# Simple TODO App 
 
-This repo contains  **Source Code** of a TODO App coded in Flutter. 
-We have used  **SQFLITE** database to store persistant data.
-
-
-# Tutorial
-
-[UI](https://youtu.be/M3IwPbjOXmw)
-
-[The Backend](https://youtu.be/BDWZlUyQZF0)
 
 ## ScreenShots
 
-![Screen](assets/screenshots/screen.png)
-![Screen](assets/screenshots/alert.png)
+![todo1](https://user-images.githubusercontent.com/48440396/115999711-14d0ea00-a5ed-11eb-83ad-aba159ee10aa.jpg)
+![todo2](https://user-images.githubusercontent.com/48440396/115999723-23b79c80-a5ed-11eb-9338-d435654aa94a.jpg)
+![todo3](https://user-images.githubusercontent.com/48440396/115999743-3336e580-a5ed-11eb-81b9-a27ef5ad6732.jpg)
